@@ -1,0 +1,5 @@
+{
+  "files.associations": {
+    "lpuart.h": "c"
+  }
+}
